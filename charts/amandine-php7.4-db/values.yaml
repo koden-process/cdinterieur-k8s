@@ -1,0 +1,10 @@
+NameSpace: koden-clients
+AppName: cdinterieur-db
+
+MariadbReplicas: 1
+MariadbImageTag: latest
+MariadbDiskSize: 5Gi
+MariadbServerId: 2
+MariadbDbName: cd_interieur
+MariadbDbUser: cd_interieur
+MariadbDbPort: 3306
