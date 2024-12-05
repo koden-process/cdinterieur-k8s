@@ -3,3 +3,5 @@ AppName: cdinterieur-app
 
 HostName: cd-interieur.fr
 DiskSize: 5Gi
+
+DockerImage: killiankopp/amandine-7.4:241122
