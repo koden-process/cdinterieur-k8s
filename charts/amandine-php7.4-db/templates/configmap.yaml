@@ -6,5 +6,5 @@ metadata:
 data:
   my.cnf: |
     [mysqld]
+    sql_mode=''
     server-id = {{ .Values.MariadbServerId }}
-    replicate-do-db = {{ .Values.MariadbDbName }}
